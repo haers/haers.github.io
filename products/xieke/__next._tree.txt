@@ -1,9 +1,6 @@
-:HL["/_next/static/chunks/0shjw5a8i5x46.css","style"]
+:HL["/_next/static/chunks/0q70klxyq77l1.css","style"]
 :HL["/images/xieke-icon.png","image"]
-:HL["/images/xieke-schedule-light.webp","image"]
-:HL["/images/xieke-schedule-dark.webp","image"]
-:HL["/images/xieke-rest.webp","image"]
 3:[["children",{"s":"__PAGE__","h":160}]]
 2:[["children",{"s":{"n":"slug","t":"d","k":"xieke","s":[]},"h":65632,"c":"$Q3"}]]
 1:[["children",{"s":"products","h":131168,"c":"$Q2"}]]
-0:{"b":"mQAgL7r_vwIcz2DUl9wfT","t":{"t":{"s":"","h":131152,"c":"$Q1"}}}
+0:{"b":"1LovJIgA5PhHLfExHB8IU","t":{"t":{"s":"","h":131152,"c":"$Q1"}}}
