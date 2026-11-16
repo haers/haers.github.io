@@ -1,8 +1,8 @@
-:HL["/_next/static/chunks/2990y_jedbv0s.css","style"]
-:HL["/images/library-icon.png","image"]
+:HL["/_next/static/chunks/0x8g7iec9nd16.css","style"]
+:HL["/images/library-icon.svg","image"]
 :HL["/images/library-light.webp","image"]
 :HL["/images/library-dark.webp","image"]
 3:[["children",{"s":"__PAGE__","h":160}]]
 2:[["children",{"s":{"n":"slug","t":"d","k":"library","s":[]},"h":65632,"c":"$Q3"}]]
 1:[["children",{"s":"products","h":131168,"c":"$Q2"}]]
-0:{"b":"oOwZVKzuZ0oXFXtBEjGDW","t":{"t":{"s":"","h":131152,"c":"$Q1"}}}
+0:{"b":"BgiIe4zPg5Cn2qjfxcnm5","t":{"t":{"s":"","h":131152,"c":"$Q1"}}}
