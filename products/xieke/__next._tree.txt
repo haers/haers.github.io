@@ -1,8 +1,8 @@
-:HL["/_next/static/chunks/3qp8dw_5p79qy.css","style"]
+:HL["/_next/static/chunks/15xg6-doqaqpr.css","style"]
 :HL["/images/xieke-icon.png","image"]
 :HL["/images/xieke-light.webp","image"]
 :HL["/images/xieke-dark.webp","image"]
 3:[["children",{"s":"__PAGE__","h":160}]]
 2:[["children",{"s":{"n":"slug","t":"d","k":"xieke","s":[]},"h":65632,"c":"$Q3"}]]
 1:[["children",{"s":"products","h":131168,"c":"$Q2"}]]
-0:{"b":"d8r7gNgUPlxVKEdlGcVqA","t":{"t":{"s":"","h":131152,"c":"$Q1"}}}
+0:{"b":"khOZKR4yTtpMAb-CKKdM3","t":{"t":{"s":"","h":131152,"c":"$Q1"}}}
